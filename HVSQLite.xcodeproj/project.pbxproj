@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		621D0B0220ABCE1E00A6701B /* main_spec.rb */ = {isa = PBXFileReference; lastKnownFileType = text.script.ruby; name = main_spec.rb; path = spec/main_spec.rb; sourceTree = SOURCE_ROOT; };
 		629673FC20ABBC760099571B /* HVSQLite */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HVSQLite; sourceTree = BUILT_PRODUCTS_DIR; };
 		629673FF20ABBC760099571B /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				629673FF20ABBC760099571B /* main.c */,
+				621D0B0220ABCE1E00A6701B /* main_spec.rb */,
 			);
 			path = HVSQLite;
 			sourceTree = "<group>";
